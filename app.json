@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "mobdev",
+    "slug": "mobdev",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/newlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/newlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7941D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F7941D"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
